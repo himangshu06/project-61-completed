@@ -1,0 +1,57 @@
+body {
+  text-align: center;
+  background-color:lightblue;
+}
+#hobby-img {
+ width:400px;
+}
+h1{
+  500px;
+    text-align: center;
+}
+h2{
+  500px;
+    text-align: center;
+}
+h3{
+  250px;
+    text-align: center;
+}
+h4{
+    60px;
+    text-align: center;
+}
+img{
+    width: 300px;
+}
+html{
+    scroll-behavior: smooth;
+}
+div{
+    text-align: center;
+}
+iframe{
+    text-align: center;
+}
+.link:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+#Contact iframe{
+    width: 100%;
+}
+#Contact{
+    background: firebrick;
+}
+.Contact1 a{
+color: white;
+    text-shadow: none;
+}
+.menu{
+position: fixed;
+    background-color: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
